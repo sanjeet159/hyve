@@ -134,7 +134,7 @@ const content = [
   {
     title: "Get Matched",
     description:
-      "We match you with vetted Freelance Teams or Skilled individuals that fit your requirements. No more endless searching through profile.",
+      "We match you with vetted Freelance Teams or Skilled individuals that fit your requirements. No more endless searching through profiles.",
     content: (
       <div className="h-full w-full flex items-center justify-center">
         <div className="w-full max-w-sm space-y-4">
